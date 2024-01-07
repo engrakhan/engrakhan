@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react.
 - 💞️ I’m looking to collaborate on front-end projects
-- 📫 How to reach me ...
+- 📫 Ahmad Khan(for reaching me on Linkedin
 
 <!---
 engrakhan/engrakhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
